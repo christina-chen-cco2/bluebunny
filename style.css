@@ -1,3 +1,44 @@
 body {
   margin-top: 20px;
 }
+
+#first-menu {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.header {
+  font-weight: bold;
+  color: white;
+}
+
+.blue-background {
+  background-color: #0083CB;
+}
+
+i {
+  color: #80C1E5;
+}
+
+.orange-background {
+  background-color: #F9AC31;
+}
+
+.red-background {
+  background-color: #D73D54;
+}
+
+.green-background {
+  background-color: #A2CB5B;
+}
+
+.snow-background {
+  background-color:#E7F3FA;
+}
+
+.ui.small.header, .ui.medium.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
