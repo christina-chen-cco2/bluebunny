@@ -36,9 +36,19 @@ i {
   background-color: #E7F3FA;
 }
 
-.ui.small.header, .ui.medium.header {
+.ui.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.header {
+  color: white;
   padding-top: 10px;
   padding-bottom: 10px;
   font-weight: bold;
+}
+
+.ui.medium.centered.header {
+  color: #A33391;
 }
 
